@@ -106,11 +106,15 @@ $ python3 main.js
 
 ## development
 
-### gap_product
+### gcp_product
 
-### gap_workflow
+![gcp_product](./public/img/gcp_product.png)
 
-### gap_architect
+### gcp_workflow
+
+![gcp_workflow](./public/img/gcp_workflow.png)
+
+### gcp_architect
 
 
 
