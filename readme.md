@@ -116,7 +116,8 @@ $ python3 main.js
 
 ### gcp_architect
 
-
+![gcp_architect](./public/img/gcp_archtiect.png)
+![gcp_architect](./public/img/gcp_architect2.png)
 
 ## demo
 
