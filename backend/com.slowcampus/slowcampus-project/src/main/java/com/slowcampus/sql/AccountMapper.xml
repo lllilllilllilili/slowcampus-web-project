@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.slowcampus.account.AccountMapper">
+
+<select id="getUser" resultType="com.slowcampus.account.AccountVO" parameterType="String">
+	SELECT * FROM account
+	WHERE (USER_ID=#{user_id} and USER_PW=#{user_pw})
+	LIMIT 1
+</select>
+
+</mapper>

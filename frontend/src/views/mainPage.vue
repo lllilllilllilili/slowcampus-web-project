@@ -4,7 +4,7 @@
       <div class="grid">
           <div class="mark">
             <a href = "/main">
-              <img  src="../assets/gs네오텍.png"  style = "display: block; margin: 0px auto;" width="150" height="50"> 
+              <img  src="../assets/symbol.jpeg"  style = "display: block; margin: 0px auto;" width="150" height="50"> 
             </a>
           </div>
 
@@ -40,11 +40,11 @@
           <div class="menu">
                 <v-tabs fixed-tabs>             
                     <v-tab @click="valid('main-intro')">
-                        slow campus 소개</v-tab>
-                    <v-tab @click="valid('main-teacher')">강사소개</v-tab>
-                    <v-tab @click="valid('main-contents')">IT 강의 목록</v-tab>
-                    <v-tab @click="valid('main-reviews')" >후기</v-tab>
-                    <v-tab @click="valid('main-customer')">고객센터</v-tab>
+                        훈장</v-tab>
+                    <v-tab @click="valid('main-teacher')">훈장2</v-tab>
+                    <v-tab @click="valid('main-contents')">훈장3</v-tab>
+                    <v-tab @click="valid('main-reviews')" >훈장4</v-tab>
+                    <v-tab @click="valid('main-customer')">훈장5</v-tab>
                 </v-tabs>
                
                 <router-view></router-view>
