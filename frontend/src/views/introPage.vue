@@ -3,18 +3,18 @@
       
       <br>
       <div class="new_box">   
-      <img src="../assets/junjang-shinhanlife.jpeg" style = "display: block; margin: 0px auto;" width="250" height="250">
+      <!-- <img src="../assets/junjang-shinhanlife.jpeg" style = "display: block; margin: 0px auto;" width="250" height="250"> -->
       <div style="text-align : center;">
-       🏆. 2021년 4월 20일 - 신한라이프
+       <!-- 🏆. 2021년 4월 20일 - 신한라이프 -->
       </div>
 
       
       </div>
 
        <div class="new_box">   
-      <img src="../assets/cj.jpeg" style = "display: block; margin: 0px auto;" width="250" height="250">
+      <!-- <img src="../assets/cj.jpeg" style = "display: block; margin: 0px auto;" width="250" height="250"> -->
       <div style="text-align : center;">
-       🏆. 2021년 4월 22일 - CJ올리브네트웍스
+       <!-- 🏆. 2021년 4월 22일 - CJ올리브네트웍스 -->
       </div>
       </div>
       <span style="line-height:100px">
