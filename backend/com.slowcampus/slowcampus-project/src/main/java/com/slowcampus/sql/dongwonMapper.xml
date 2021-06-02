@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
-<mapper namespace="com.slowcampus.dongwon.dongwonMapper">
-
-<select id="getInfo" resultType="com.slowcampus.dongwon.dongwonVO" parameterType="String">
-	select * from gsn_v_1_table
-</select>
-
-</mapper>
