@@ -18,7 +18,7 @@ public class DatabaseConfig {
 		final SqlSessionFactoryBean sessionFactory = new SqlSessionFactoryBean();
 		sessionFactory.setDataSource(dataSource);
 		PathMatchingResourcePatternResolver resolver = new PathMatchingResourcePatternResolver();
-		sessionFactory.setMapperLocations(resolver.getResources("classpath:com/slowcampus/sql/*.xml"));
+		sessionFactory.setMapperLocations(resolver.getResources("classpath*:com/slowcampus/sql/*.xml"));
 		return (SqlSessionFactory)sessionFactory.getObject();
 	}
 	
