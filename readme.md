@@ -121,7 +121,7 @@ $ python3 main.js
 
 ## demo
 
-http://ingyu.info.
+http://ingyu.info. (2021. 06. 21 Closed) 
 
 
 ## stack
